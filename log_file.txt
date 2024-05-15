@@ -1,0 +1,28 @@
+2024-05-15 14:36:54.578587 - Updated file replica/test2.txt
+2024-05-15 14:36:54.578587 - Created folder replica/teste folder\erf
+2024-05-15 14:36:54.580078 - Created file replica/teste folder\erf\fgy.txt
+2024-05-15 14:36:54.581081 - Created folder replica/teste folder\fgg
+2024-05-15 14:36:54.582085 - Updated file replica/teste folder\teste file.txt
+
+2024-05-15 14:37:54.593636 - Deleted file replica/teste folder\teste file.txt
+2024-05-15 14:37:54.594969 - Deleted folder replica/teste folder\fgg
+2024-05-15 14:37:54.594969 - Deleted file replica/teste folder\erf\fgy.txt
+2024-05-15 14:37:54.596424 - Deleted folder replica/teste folder\erf
+2024-05-15 14:37:54.596424 - Deleted folder replica/teste folder
+
+
+2024-05-15 14:39:54.620838 - Created folder replica/teste folder
+2024-05-15 14:39:54.622053 - Created folder replica/teste folder\erf
+2024-05-15 14:39:54.623481 - Created file replica/teste folder\erf\fgy.txt
+2024-05-15 14:39:54.624485 - Created file replica/teste folder\teste file.txt
+
+2024-05-15 14:41:03.264329 - Created folder replica/teste folder\fgg
+
+2024-05-15 14:43:03.277894 - Updated file replica/test2.txt
+
+2024-05-15 14:44:03.303557 - Deleted file replica/teste folder\teste file.txt
+2024-05-15 14:44:03.304558 - Deleted folder replica/teste folder\fgg
+2024-05-15 14:44:03.305558 - Deleted file replica/teste folder\erf\fgy.txt
+2024-05-15 14:44:03.305558 - Deleted folder replica/teste folder\erf
+2024-05-15 14:44:03.306558 - Deleted folder replica/teste folder
+
