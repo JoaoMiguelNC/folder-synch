@@ -107,7 +107,6 @@ def main():
     source, replica, synch_interval, log_path = get_args()
 
     while True:
-        # dar a lista do genero (object, type) with type = folder or file
         dir_list = get_combined_dir(source, replica)
         logs = []
 
